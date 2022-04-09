@@ -2,13 +2,13 @@
 
 never gonna give you up
 
-# Why?
+## Why?
 
 because why not :)
 
 i made this as harmless joke for school - you open a file with fake name and icon and it will take you... you know where
 
-# How to use it? 
+## How to use it? 
 
 1. just download files and put it in folder somewhere
 2. create a link of *main.py* on desktop
@@ -20,10 +20,10 @@ i made this as harmless joke for school - you open a file with fake name and ico
         - 2nd way is to choose your own image and convert it to icon. 
             - i used *[convertico.com](https://convertico.com/)*. upload your image and download your icon
 
-***file.csv***  
-this file will contain a date, when the file was openned  
-to read this file, you can use excel or third-party software like [notepad++](https://notepad-plus-plus.org/downloads/)
-> i use [vscode](https://code.visualstudio.com/download), but that's not necessary
+### file.csv
+this file will contain a date and time, once you've got rickrolled
+to read this file, you can use excel or any third-party software like [Notepad++](https://notepad-plus-plus.org/downloads/)
+> i use [VS Code](https://code.visualstudio.com/download) with *Rainbow CSV extension*, but that's not necessary
 
 
-**if you want to ask me something, feel free to email me cypooriginal@gmail.com**
+**if you want to ask something, feel free to contact me: cypooriginal@gmail.com**
