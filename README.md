@@ -21,7 +21,7 @@ i made this as harmless joke for school - you open a file with fake name and ico
             - i used *[convertico.com](https://convertico.com/)*. upload your image and download your icon
 
 ### file.csv
-this file will contain a date and time, once you've got rickrolled
+this file will contain a date and time, once you've got rickrolled  
 to read this file, you can use excel or any third-party software like [Notepad++](https://notepad-plus-plus.org/downloads/)
 > i use [VS Code](https://code.visualstudio.com/download) with *Rainbow CSV extension*, but that's not necessary
 
