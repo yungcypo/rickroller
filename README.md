@@ -22,8 +22,8 @@ i made this as harmless joke for school - you open a file with fake name and ico
 
 ***file.csv***  
 this file will contain a date, when the file was openned  
-to read this file, you can use excel or software like [notepad++](https://notepad-plus-plus.org/downloads/)
-- i use [vscode](https://code.visualstudio.com/download), but that's not necessary
+to read this file, you can use excel or third-party software like [notepad++](https://notepad-plus-plus.org/downloads/)
+> i use [vscode](https://code.visualstudio.com/download), but that's not necessary
 
 
 **if you want to ask me something, feel free to email me cypooriginal@gmail.com**
